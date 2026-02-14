@@ -347,7 +347,7 @@ OnboardAI uses proven learning techniques:
 ## 📞 Contact
 
 **Team**: The Third Lab  
-**Team Leader**: Ayush Kumar  
+**Team Leader**: Harshil Pradhan
 **Hackathon**: AWS AI for Bharat 2026  
 **Track**: AI for Learning & Developer Productivity
 
